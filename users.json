@@ -1,0 +1,23 @@
+[
+  {
+    "email": "omar@myrealtyca.com",
+    "inviteCode": "$MRCagent100550928",
+    "displayName": "Omar L Ortiz",
+    "role": "admin",
+    "status": "approved"
+  },
+  {
+    "email": "info@myrealtyca.com",
+    "inviteCode": "$Cu012131550928",
+    "displayName": "Omar L Ortiz",
+    "role": "admin",
+    "status": "approved"
+  },
+  {
+    "email": "demo@myrealtyca.com",
+    "inviteCode": "$MRCAgent100",
+    "displayName": "Demo Account",
+    "role": "agent",
+    "status": "approved"
+  }
+]
