@@ -12,6 +12,13 @@
     "displayName": "Omar L Ortiz",
     "role": "admin",
     "status": "approved"
+  }, 
+  {
+    "email": "fake@myrealtyca.com",
+    "inviteCode": "$Cu012131550928",
+    "displayName": "Ortiz L Omar",
+    "role": "admin",
+    "status": "revoked"
   },
   {
     "email": "demo@myrealtyca.com",
